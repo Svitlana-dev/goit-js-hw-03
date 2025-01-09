@@ -1,2 +1,2 @@
-# goit-js-hw-02
-This is my second JS homework
+# goit-js-hw-03
+This is my third JS homework
